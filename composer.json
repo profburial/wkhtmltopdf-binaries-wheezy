@@ -1,0 +1,21 @@
+{
+    "name": "profburial/wkhtmltopdf-binaries-wheezy",
+    "description": "All the wkhtmltopdf binaries for Debian Wheezy.",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-wheezy",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-linux-wheezy-amd64",
+        "bin/wkhtmltoimage-linux-wheezy-i386",
+        "bin/wkhtmltopdf-linux-wheezy-amd64",
+        "bin/wkhtmltopdf-linux-wheezy-i386"
+    ],
+    "require": {}
+}
