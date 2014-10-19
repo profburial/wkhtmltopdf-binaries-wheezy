@@ -1,5 +1,5 @@
-# wkhtmltopdf for Debian Wheezy
-
+# wkhtmltopdf for Debian Wheezy 0.12.1 qtwebkit
+ 
 [All the binaries for Debian Wheezy from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
 ## Install
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-wheezy": "1.0"
+            "profburial/wkhtmltopdf-binaries-wheezy": "0.12.1"
         }
     }
     ```
